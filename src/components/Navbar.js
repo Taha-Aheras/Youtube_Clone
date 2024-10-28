@@ -46,7 +46,7 @@ export default function Navbar() {
         </div>
         <Link to="/" className="flex gap-1 items-center justify-center" >
           <BsYoutube className="text-3xl text-green-500" />
-          <span className="relative text-2xl ">Tahatube
+          <span className="relative text-2xl ">Tahaaaaa2
           <span className="absolute text-xs text-gray-400" style={{ fontSize: '12px', top: '40%', left: '105%', whiteSpace: 'nowrap'}}>By-Taha</span>
           </span>
         </Link>
